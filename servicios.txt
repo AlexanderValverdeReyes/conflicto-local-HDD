@@ -1,0 +1,4 @@
+Configuracion del Sistema - UTP 2026
+Modulo: Autenticacion
+Estado: En desarrollo
+Servidor: Localhost
