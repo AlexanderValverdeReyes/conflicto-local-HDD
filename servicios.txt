@@ -1,4 +1,4 @@
 Configuracion del Sistema - UTP 2026
 Modulo: Autenticacion
-Estado: En revision por QA Local
+Estado: Activo en Servidor de Pruebas AWs - Aprobado por QA Local
 Servidor: Localhost
