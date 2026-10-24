@@ -1,4 +1,4 @@
 Configuracion del Sistema - UTP 2026
 Modulo: Autenticacion
-Estado: En desarrollo
+Estado: Estado: Activo en Servidor de Pruebas AWS
 Servidor: Localhost
